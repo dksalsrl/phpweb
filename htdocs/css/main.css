@@ -1,0 +1,4 @@
+#main_content{padding-top: 100px;}
+#main_image1{background-image: url('../image/tt1.jpg'); width: 70%; height: 500px; margin: auto; background-size:cover;  background-repeat : no-repeat;}
+#main_image2{background-image: url('../image/tt2.jpg'); width: 70%; height: 500px; margin: auto; background-size:cover;  background-repeat : no-repeat;}
+#main_image3{background-image: url('../image/tt3.jpg'); width: 70%; height: 500px; margin: auto; background-size:cover;  background-repeat : no-repeat;}

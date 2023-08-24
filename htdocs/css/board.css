@@ -1,0 +1,233 @@
+#tab1{
+    padding-top: 50px;
+    text-align:right; border-bottom: #4B8A08 2px solid;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+    margin: auto;
+    width:80%;
+}
+#highlight1{
+    color: #4B8A08;
+    font-size: 50px;
+}
+#board{
+    width: 90%;
+    border-bottom: 1px solid #4B8A08;
+    border-top: 2px solid #4B8A08;
+    color: #4B8A08;
+    margin: auto;
+    border-collapse: collapse;
+}
+#board th{
+    border-bottom: 2px solid #4B8A08;
+    color: #4B8A08;
+}
+
+#board tr{
+    color: black;
+}
+#tab2{
+    padding-top: 50px;
+    width: 80%;
+    margin: auto;
+    text-align: center;
+}
+
+#viewtitle
+{
+    margin: auto;
+    text-align: left;
+    width: 80%;
+    border-top: 2px solid #4B8A08;
+    border-bottom: 1px solid #4B8A08;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+#viewcontent
+{
+    margin: auto;
+    width: 80%;
+    border-bottom: 2px solid #4B8A08;
+    text-align: left;
+}
+
+#lt
+{
+    margin-left: 15px;
+    text-align: left;
+}
+
+#rt
+{
+    margin-right: 15px;
+    float: right;
+}
+
+#cont
+{
+    border-top: 1px solid #4B8A08;
+    padding-top: 5px;
+    
+    height: 500px;
+    padding-bottom: 5px;
+    padding-left: 15px;
+    text-align: left; 
+}
+
+#viewfile
+{
+    margin-left: 15px;
+}
+
+#pn
+{
+    width: 80%;
+    margin: auto;
+}
+
+#pnlist
+{
+    padding-left: 15px;
+    text-align: left;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    border-bottom: 1px solid #4B8A08;
+}
+
+
+#bt2
+{
+    width: 80px;
+    height: 30px;
+    color: white;
+    background-color: #4B8A08;
+    border: 1px solid #4B8A08;
+    cursor: pointer;
+}
+
+
+#wrm
+{
+    text-align: center;
+}
+
+#wrf
+{
+    width: 80%; 
+    margin: auto; 
+    border-collapse: collapse; 
+    margin-top:30px; 
+    border-top: 3px solid #4B8A08;
+    border-bottom: #4B8A08 1px solid;
+}
+
+.col1
+{
+    width: 20%; 
+    background-color: #c7f29c;
+    text-align: left; 
+    padding-left: 5px;}
+.col2
+{
+    width: 80%; 
+    text-align: left; 
+    padding-left:5px;
+}
+.row1
+{
+    height: 27px; 
+    border-bottom: #4B8A08 1px solid;
+}
+
+#tx
+{
+    width: 560px; 
+    text-align: left; 
+    border: 0px; 
+    resize:none;
+}
+
+#comarea
+{
+    width: 80%;
+    margin: auto;
+}
+
+#comarea2
+{
+    width: 80%;
+    margin: auto;
+    border-top: 2px solid #4B8A08;
+    border-bottom: 2px solid #4B8A08;
+    padding-top: 3px;
+    padding-bottom: 10px;
+    
+    
+}
+
+#comcon
+{
+    width: 100%;
+    height: 50px;
+    border: none;
+    resize: none;
+}
+
+#comname
+{
+    font-weight: bold;
+    float: left;
+    background-color: white;
+    border: none;
+}
+
+#bt3
+{
+    width: 80px;
+    height: 25px;
+    color: white;
+    background-color: #4B8A08;
+    border: 1px solid #4B8A08;
+    float: right;
+    cursor: pointer;
+}
+
+
+#comwrap
+{
+    width: 80%;
+    margin: auto;
+    padding-top: 10px;
+}
+
+#comments
+{
+    padding-bottom: 5px;
+    padding-top: 5px;
+    border-bottom: 1px solid #e9e9e9;
+    display: grid;
+    grid-template-columns: 1fr 3fr 1fr;
+}
+
+#commentname
+{
+    float: left;
+    text-align: left;
+    
+    margin-left: 15px;
+}
+
+#commentcon
+{
+    text-align: left;
+}
+
+#commentdel
+{
+    color: #4B8A08;
+    font-weight: bold;
+    float: right;
+    margin-right: 15px;
+}
+

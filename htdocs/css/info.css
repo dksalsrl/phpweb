@@ -1,0 +1,124 @@
+#tab1{
+    padding-top: 50px;
+    text-align:right; border-bottom: #4B8A08 2px solid;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+    margin: auto;
+    width:80%;
+}
+#highlight1{
+    color: #4B8A08;
+    font-size: 50px;
+}
+.circle
+{
+    background-color: #6eaa5e;
+    margin: auto;
+    margin-right: 5px;
+    width: 100px;
+    height: 100px;
+    border: 15px solid #6eaa5e;
+    border-radius: 50%;
+    text-align: center;
+    color: white;
+    line-height : 100px;
+}
+
+#select
+{
+    background-color: #4B8A08;
+    border: 15px solid #4B8A08;
+}
+
+#aff
+{
+    width: 30%;
+    text-align: center;
+    margin: auto;
+    display: flex;
+}
+
+#tab2
+{
+    margin: auto;
+    padding-bottom: 15px;
+    width: 80%;
+    border-bottom: 1px solid #4B8A08;
+}
+
+
+#tab3
+{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    display: grid;
+    margin: auto;
+    width: 80%;
+    grid-template-columns: 2fr 1fr;
+    border-bottom: 1px solid gray;
+}
+
+#highlight2
+{
+    background-color: #4B8A08;
+    color: white;
+    font-size: 20px;   
+    text-align: center;
+    
+    border-top: 5px solid white;
+    
+    padding: 2px 2px 2px 7px;
+    border-right: 5px solid #4B8A08;
+    border-radius: 5px;
+}
+
+#tab4
+{
+    text-align: center;
+    border-right: 1px solid gray;
+}
+
+#tab5
+{
+    text-align: center;
+}
+
+.exp
+{
+    margin-left: 15px;
+    text-align: left;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.infoimg
+{
+    
+    border: 1px solid gray; margin-right: 15px; float:left;
+}
+#highlight3
+{
+    font-size: 70px;
+    font-weight: bold;
+    color: #4B8A08;
+}
+#maintab
+{
+    width: 60%;
+    margin: auto;
+    background-color: #4B8A08;
+    color: white;
+    font-size: 20px;   
+    text-align: center;
+
+    border-top: 5px solid white;
+
+    padding: 2px 2px 2px 7px;
+    border-right: 5px solid #4B8A08;
+    border-radius: 5px;
+}
+#maininfoimg
+{
+    margin-top: 100px;
+    width: 500px;
+    height: 400px;
+}
